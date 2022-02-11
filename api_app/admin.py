@@ -1,4 +1,4 @@
 from django.contrib import admin
-from .models import db_data
+from .models import products
 
-admin.site.register(db_data)
+admin.site.register(products)
